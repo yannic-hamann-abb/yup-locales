@@ -1,6 +1,7 @@
 {
-  "name": "yup-locales",
+  "name": "yup-locales",  
   "version": "0.0.0-development",
+  "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/yup-locales.esm.js",
   "typings": "dist/index.d.ts",
